@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BiocombustActivity</string>
+    <string name="preço_gasolina">Gasoline Price (per gallon)</string>
+    <string name="informe_o_preço_da_gasolina">Enter the gasoline price (per gallon)</string>
+    <string name="consumo_gasolina_km_l">Gasoline Consumption (mpg)</string>
+    <string name="informe_o_consumo_da_gasolina">Enter the gasoline consumption (mpg)</string>
+    <string name="preço_alcool">Alcohol Price (per gallon)</string>
+    <string name="informe_o_preço_do_alcool">Enter the alcohol price (per gallon)</string>
+    <string name="consumo_alcool_km_l">Alcohol Consumption (mpg)</string>
+    <string name="informe_o_consumo_do_alcool">Enter the alcohol consumption (mpg)</string>
+    <string name="resultado">Result</string>
+    <string name="calcular">Calculate</string>
+    <string name="sair">Exit</string>
+</resources>

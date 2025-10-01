@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">BiocombustActivity</string>
+    <string name="preço_gasolina">Preço Gasolina</string>
+    <string name="informe_o_preço_da_gasolina">Informe o preço da gasolina</string>
+    <string name="consumo_gasolina_km_l">Consumo Gasolina (km/L)</string>
+    <string name="informe_o_consumo_da_gasolina">Informe o consumo da gasolina</string>
+    <string name="preço_alcool">Preço Álcool</string>
+    <string name="informe_o_preço_do_alcool">Informe o preço do álcool</string>
+    <string name="consumo_alcool_km_l">Consumo Álcool (km/L)</string>
+    <string name="informe_o_consumo_do_alcool">Informe o consumo do álcool</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+    <string name="sair">Sair</string>
 </resources>
