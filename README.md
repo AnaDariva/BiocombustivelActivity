@@ -27,7 +27,7 @@ O app valida os dados inseridos, exibe o resultado na tela e possui interações
 
 ## 🎯 Objetivo do Trabalho  
 - Exercitar **tratamento de eventos** no Android (cliques simples e longos).  
-- Implementar **validação de campos** com `setError()` e mensagens `Toast`.  
+- Implementar **validação de campos** com `setError()` e mensagens `Toast`.
 - Utilizar **layouts e estilos visuais** no Android Studio.  
 - Consolidar conceitos de **interação entre Activity e XML**.  
 
