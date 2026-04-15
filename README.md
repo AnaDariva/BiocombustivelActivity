@@ -2,7 +2,7 @@
 *Aplicativo Android para comparar custo-benefício entre Gasolina e Álcool*  
 
 **Linguagem de Programação:** Kotlin  
-**Framework:** Android SD
+**Framework:** Android SDK
 **IDE:** Android Studio  
 
 <h2 align="left"> Languages & Tools: </h2>  
